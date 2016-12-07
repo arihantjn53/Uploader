@@ -1,2 +1,6 @@
 # File Uploader #
-An javascript developed uploader
+
+- A file uploader developed in javascript.
+- tools used are `multer`, `express`.
+- node to compile and run.
+
